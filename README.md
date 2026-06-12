@@ -107,6 +107,55 @@ Modern, serverless, and cost-efficient — scales per tenant with no infrastruct
 
 ---
 
+## ⏱️ Why Now
+
+- **WhatsApp is the channel of record in the GCC** — and Meta's Cloud API has opened the ecosystem to software, not just resellers.
+- **AI just became good enough in Arabic** to automate real conversations — not scripted bots.
+- **Saudi PDPL** is now enforced, making compliant data handling a buying requirement, not a nice-to-have.
+- **Vision 2030 SME digitization** is pushing thousands of businesses off personal phones and onto real tools.
+
+The market is shifting from "WhatsApp on a personal phone" to "WhatsApp as a business system" — and the Arabic-first layer is wide open.
+
+---
+
+## 📈 Market
+
+| | |
+|---|---|
+| 🎯 **Beachhead** | Saudi SMEs & e-commerce merchants (Salla / Zid ecosystem) selling and supporting on WhatsApp |
+| 🌐 **Expansion** | GCC → wider MENA, then Arabic-speaking diaspora markets |
+| 🧭 **Wedge** | Arabic-first AI + local compliance + local payments — the exact gaps global tools leave open |
+| 🔁 **Land & expand** | Start with one channel, grow into campaigns, AI, multi-agent teams, and API integrations |
+
+---
+
+## ✅ Product Maturity
+
+Respondly is **live in production**, not a prototype:
+
+- A deep, shipped feature set across inbox, AI, campaigns, CRM, commerce, analytics, and a public API.
+- Battle-tested billing — subscriptions, usage wallet, prorated add-ons, coupons, and referrals — built on **Moyasar**.
+- Enterprise-grade foundations: strict multi-tenant isolation, audited financial operations, and continuous security hardening.
+- Advanced WhatsApp surface area (Flows, Calling, Groups, catalogs) that most competitors haven't built.
+
+---
+
+## 🛣️ Roadmap
+
+- **Now** — Deepen AI: autonomous sales agents, conversation scoring, and self-improving knowledge bases.
+- **Next** — Self-serve onboarding, marketplace of industry templates, and richer revenue analytics.
+- **Later** — Voice (WhatsApp Calling) workflows, deeper commerce (Zid + more), and a partner/agency tier.
+
+---
+
+## 🌟 Vision
+
+> Every business in the Arab world should be able to have a real, intelligent, compliant conversation with every one of its customers — at scale, in their language.
+
+Respondly is the platform that makes that the default.
+
+---
+
 <div align="center">
 
 ### 📩 Get in touch
@@ -148,5 +197,22 @@ Modern, serverless, and cost-efficient — scales per tenant with no infrastruct
 | **المبتدئ** | 99 ر.س/شهر | 1 |
 | **النمو** | 199 ر.س/شهر | 2 |
 | **الأعمال** | 299 ر.س/شهر | 5 |
+
+## لماذا الآن
+- واتساب صار **قناة الأعمال الأولى في الخليج**، وواجهة Meta السحابية فتحت السوق للبرمجيات لا للوسطاء فقط.
+- الذكاء الاصطناعي بات **جيداً بما يكفي بالعربية** لأتمتة محادثات حقيقية لا بوتات نصّية.
+- تطبيق **نظام حماية البيانات السعودي (PDPL)** جعل الالتزام شرط شراء لا رفاهية.
+- **رؤية 2030** ورقمنة المنشآت الصغيرة تدفع آلاف الشركات من الأرقام الشخصية إلى أدوات حقيقية.
+
+## السوق
+- **نقطة الانطلاق:** المنشآت الصغيرة والتجار (منظومة سلة/زد) الذين يبيعون ويدعمون عبر واتساب.
+- **التوسّع:** الخليج ← شمال أفريقيا والمنطقة العربية الأوسع.
+- **الميزة الفاصلة:** ذكاء عربي-أولاً + التزام محلي + دفع محلي — وهي بالضبط الفجوات التي تتركها الأدوات العالمية.
+
+## جاهزية المنتج
+Respondly **يعمل في الإنتاج فعلاً** لا نموذج أولي: مجموعة ميزات عميقة منشورة، فوترة مُختبَرة عبر ميسّر، وأسس مؤسسية (عزل صارم بين المنظمات، عمليات مالية مدقّقة، وتحصين أمني مستمر).
+
+## الرؤية
+> أن تستطيع كل شركة في العالم العربي إجراء محادثة حقيقية ذكية وملتزمة مع كل عميل — على نطاق واسع وبلغته.
 
 </div>
