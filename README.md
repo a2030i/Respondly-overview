@@ -11,6 +11,8 @@
 ![Channels](https://img.shields.io/badge/القنوات-واتساب%20·%20بريد%20·%20اجتماعي-25D366)
 ![Compliance](https://img.shields.io/badge/الالتزام-PDPL%20%7C%20سياسة%20واتساب-1D9BF0)
 
+📄 **[ملف الاستثمار الكامل (Pitch) ←](PITCH.md)**
+
 </div>
 
 ---
