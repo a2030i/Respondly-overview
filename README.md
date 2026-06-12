@@ -2,167 +2,14 @@
 
 <h1>Respondly</h1>
 
-### The AI-Powered Customer Conversation Platform for the Arabic-First Market
+### منصة إدارة محادثات العملاء المدعومة بالذكاء الاصطناعي — مبنية للسوق العربي
 
-**One intelligent inbox for WhatsApp, email, and social — built natively for Saudi Arabia and the GCC.**
+**صندوق وارد ذكي واحد لواتساب والبريد والقنوات الاجتماعية — مصمّم خصيصاً للسعودية والخليج.**
 
-![Status](https://img.shields.io/badge/status-Live%20in%20Production-success)
-![Market](https://img.shields.io/badge/market-Saudi%20%26%20GCC-006C35)
-![Channels](https://img.shields.io/badge/channels-WhatsApp%20·%20Email%20·%20Social-25D366)
-![Compliance](https://img.shields.io/badge/compliance-PDPL%20%7C%20WhatsApp%20Policy-1D9BF0)
-
-</div>
-
----
-
-## 🌍 The Opportunity
-
-Businesses across Saudi Arabia and the GCC run on **WhatsApp** — it's how they sell, support, and stay in touch. Yet most still manage customer conversations through scattered personal phones, spreadsheets, and disconnected tools. The result: **lost leads, missed messages, zero visibility, and no compliance.**
-
-Global platforms (Intercom, Zendesk, Wati) are English-first, expensive, and never built for Arabic conversational nuance, local payment rails, or Saudi data-protection law.
-
-> **Respondly is the Arabic-first, AI-native operating system for customer conversations** — purpose-built for how MENA businesses actually sell and support.
-
----
-
-## 💡 The Product
-
-A single platform where a business team manages **every** customer conversation — answered, automated, measured, and compliant.
-
-<div align="center">
-
-<!-- ضع لقطة الشاشة الرئيسية هنا -->
-<img src="screenshots/inbox.png" alt="Respondly — Unified Inbox" width="820">
-
-<sub><i>Unified inbox — every channel, one workspace.</i></sub>
-
-</div>
-
-| Pillar | What it delivers |
-|---|---|
-| 📥 **Unified Inbox** | WhatsApp (official Cloud API + QR + BSP), Email, and social channels in one shared workspace — assignment, notes, snooze, internal tickets |
-| 🤖 **Built-in AI** | Smart auto-replies, suggested responses, sentiment & intent detection, AI sales attribution, and a per-business knowledge base — tuned for Arabic |
-| 📣 **Campaigns** | Bulk WhatsApp campaigns with batching, scheduling, recurrence, segmentation, and **automatic opt-out & consent enforcement** |
-| 🛒 **Commerce-Ready** | Native Salla integration, abandoned-cart recovery, and order attribution |
-| 👥 **Team & CRM** | Role-based access, auto-assignment, agent performance, customer profiles & lifecycle |
-| 📊 **Analytics** | Agent productivity, campaign ROI, channel health, and activity heatmaps |
-| 🔌 **Open API** | Scoped tokens with interactive docs for partners and integrations |
-
-> Advanced WhatsApp capabilities most platforms don't offer: **Flows** (interactive forms), **Calling API**, **Groups API**, product catalogs, and rich interactive messages.
-
----
-
-## 🖼️ Screenshots
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="screenshots/dashboard.png" width="400"><br><sub>Dashboard & analytics</sub></td>
-<td align="center"><img src="screenshots/ai-reply.png" width="400"><br><sub>AI-assisted replies</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="screenshots/campaigns.png" width="400"><br><sub>Campaign builder</sub></td>
-<td align="center"><img src="screenshots/crm.png" width="400"><br><sub>Customer CRM</sub></td>
-</tr>
-</table>
-
-</div>
-
----
-
-## 🏆 Why We Win
-
-- **🇸🇦 Arabic-first, MENA-native** — Gregorian/Riyadh time, Arabic AI tone, local context — not a translated afterthought.
-- **🔐 Compliance as a feature** — Saudi **PDPL**-aware data handling, customer phone masking, immutable audit logs, and strict **WhatsApp Business Policy** enforcement (opt-out, 24-hour window, approved templates) that protect customers from account bans.
-- **💳 Local payment rails** — native **Moyasar** billing (cards, mada, Apple Pay) with a unified usage wallet and transparent SaaS tiers.
-- **🧩 Multi-provider WhatsApp** — official Meta Cloud API, QR connections, and BSP in one abstraction — resilience competitors lack.
-- **🏗️ Secure multi-tenant architecture** — strict per-organization isolation enforced at the database layer, audited money movement, and defense-in-depth access controls.
-
----
-
-## 💰 Business Model
-
-Simple, transparent SaaS — three tiers plus usage-based add-ons (extra channels, AI, campaigns):
-
-<div align="center">
-
-| Plan | Price | Included Channels |
-|:---:|:---:|:---:|
-| **Starter** | 99 SAR / mo | 1 |
-| **Growth** | 199 SAR / mo | 2 |
-| **Business** | 299 SAR / mo | 5 |
-
-</div>
-
-Revenue compounds through seat expansion, additional channels, AI consumption, and a built-in referral engine — all billed automatically through an audited wallet system.
-
----
-
-## 🛠 Technology
-
-Modern, serverless, and cost-efficient — scales per tenant with no infrastructure overhead.
-
-**React · TypeScript · Supabase · PostgreSQL (Row-Level Security) · Edge Functions (Deno) · Moyasar · Multi-model AI (OpenAI · Gemini · Anthropic)**
-
----
-
-## ⏱️ Why Now
-
-- **WhatsApp is the channel of record in the GCC** — and Meta's Cloud API has opened the ecosystem to software, not just resellers.
-- **AI just became good enough in Arabic** to automate real conversations — not scripted bots.
-- **Saudi PDPL** is now enforced, making compliant data handling a buying requirement, not a nice-to-have.
-- **Vision 2030 SME digitization** is pushing thousands of businesses off personal phones and onto real tools.
-
-The market is shifting from "WhatsApp on a personal phone" to "WhatsApp as a business system" — and the Arabic-first layer is wide open.
-
----
-
-## 📈 Market
-
-| | |
-|---|---|
-| 🎯 **Beachhead** | Saudi SMEs & e-commerce merchants (Salla / Zid ecosystem) selling and supporting on WhatsApp |
-| 🌐 **Expansion** | GCC → wider MENA, then Arabic-speaking diaspora markets |
-| 🧭 **Wedge** | Arabic-first AI + local compliance + local payments — the exact gaps global tools leave open |
-| 🔁 **Land & expand** | Start with one channel, grow into campaigns, AI, multi-agent teams, and API integrations |
-
----
-
-## ✅ Product Maturity
-
-Respondly is **live in production**, not a prototype:
-
-- A deep, shipped feature set across inbox, AI, campaigns, CRM, commerce, analytics, and a public API.
-- Battle-tested billing — subscriptions, usage wallet, prorated add-ons, coupons, and referrals — built on **Moyasar**.
-- Enterprise-grade foundations: strict multi-tenant isolation, audited financial operations, and continuous security hardening.
-- Advanced WhatsApp surface area (Flows, Calling, Groups, catalogs) that most competitors haven't built.
-
----
-
-## 🛣️ Roadmap
-
-- **Now** — Deepen AI: autonomous sales agents, conversation scoring, and self-improving knowledge bases.
-- **Next** — Self-serve onboarding, marketplace of industry templates, and richer revenue analytics.
-- **Later** — Voice (WhatsApp Calling) workflows, deeper commerce (Zid + more), and a partner/agency tier.
-
----
-
-## 🌟 Vision
-
-> Every business in the Arab world should be able to have a real, intelligent, compliant conversation with every one of its customers — at scale, in their language.
-
-Respondly is the platform that makes that the default.
-
----
-
-<div align="center">
-
-### 📩 Get in touch
-
-**Respondly — where every customer conversation becomes a relationship.**
-
-<sub>© Respondly. All rights reserved.</sub>
+![Status](https://img.shields.io/badge/الحالة-يعمل%20في%20الإنتاج-success)
+![Market](https://img.shields.io/badge/السوق-السعودية%20والخليج-006C35)
+![Channels](https://img.shields.io/badge/القنوات-واتساب%20·%20بريد%20·%20اجتماعي-25D366)
+![Compliance](https://img.shields.io/badge/الالتزام-PDPL%20%7C%20سياسة%20واتساب-1D9BF0)
 
 </div>
 
@@ -170,49 +17,159 @@ Respondly is the platform that makes that the default.
 
 <div dir="rtl" align="right">
 
-# Respondly — بالعربية
+## 🌍 الفرصة
 
-### منصة إدارة محادثات العملاء المدعومة بالذكاء الاصطناعي — مبنية للسوق العربي
+تعتمد شركات السعودية والخليج على **واتساب** في كل تعاملاتها — به تبيع، وتدعم، وتبقى على تواصل. ومع ذلك ما زال أغلبها يدير محادثات عملائه عبر أرقام شخصية متفرّقة وجداول وأدوات غير مترابطة. والنتيجة: **عملاء ضائعون، رسائل فائتة، بلا رؤية ولا التزام ولا أتمتة.**
 
-**صندوق وارد ذكي واحد لواتساب والبريد والقنوات الاجتماعية — مصمّم خصيصاً للسعودية والخليج.**
+الأدوات العالمية (Intercom، Zendesk، Wati) إنجليزية أولاً، باهظة، وغير مبنية للهجة العربية ولا لأنظمة الدفع المحلية ولا لنظام حماية البيانات السعودي.
 
-## الفرصة
-تعتمد شركات السعودية والخليج على **واتساب** في البيع والدعم والتواصل — لكنها تديره عبر أرقام شخصية متفرّقة وأدوات غير مترابطة، فتضيع العملاء وتفوّتها الرسائل بلا رؤية ولا التزام. الأدوات العالمية إنجليزية أولاً وباهظة وغير مبنية للعربية ولا للدفع المحلي ولا لنظام حماية البيانات السعودي.
+> **Respondly هو نظام التشغيل العربي-أولاً المدعوم بالذكاء الاصطناعي لمحادثات العملاء** — مبني لطريقة عمل شركات المنطقة فعلاً.
 
-**Respondly هو نظام التشغيل العربي-أولاً المدعوم بالذكاء الاصطناعي لمحادثات العملاء.**
+## 💡 المنتج
 
-## المنتج
-- **📥 صندوق وارد موحّد** — واتساب (رسمي + QR + BSP) والبريد والقنوات الاجتماعية في مكان واحد.
-- **🤖 ذكاء اصطناعي مدمج** — ردود تلقائية ومقترحة، تحليل المشاعر، إسناد المبيعات، وقاعدة معرفة لكل منظمة.
-- **📣 حملات** — إرسال جماعي بدفعات وجدولة، مع احترام تلقائي لإلغاء الاشتراك.
-- **🛒 جاهزة للتجارة** — تكامل سلة واسترجاع السلات المتروكة.
-- **👥 فريق وCRM** + **📊 تحليلات** + **🔌 API عام**.
+منصة واحدة يدير فيها الفريق **كل** محادثة عميل — يُجاب عليها، تُؤتمت، تُقاس، وتلتزم الأنظمة.
 
-## لماذا نتميّز
-عربي-أولاً · الالتزام كميزة (PDPL + سياسة واتساب) · دفع محلي عبر ميسّر · واتساب متعدد المزوّدين · بنية آمنة متعددة المنظمات.
+</div>
 
-## الباقات
-| الباقة | السعر | القنوات |
-|:---:|:---:|:---:|
-| **المبتدئ** | 99 ر.س/شهر | 1 |
-| **النمو** | 199 ر.س/شهر | 2 |
-| **الأعمال** | 299 ر.س/شهر | 5 |
+<div align="center">
 
-## لماذا الآن
+<!-- ضع اللقطة الرئيسية هنا باسم inbox.png -->
+<img src="screenshots/inbox.png" alt="Respondly — صندوق الوارد الموحّد" width="820">
+
+<sub><i>صندوق وارد موحّد — كل القنوات في مساحة عمل واحدة.</i></sub>
+
+</div>
+
+<div dir="rtl" align="right">
+
+| الركيزة | ماذا تقدّم |
+|---|---|
+| 📥 **صندوق وارد موحّد** | واتساب (الرسمي Cloud API + QR + BSP) والبريد والقنوات الاجتماعية في مساحة واحدة — إسناد، ملاحظات، تأجيل، وتذاكر داخلية |
+| 🤖 **ذكاء اصطناعي مدمج** | ردود تلقائية ومقترحة، تحليل المشاعر والنية، إسناد المبيعات، وقاعدة معرفة لكل منظمة — مضبوطة للعربية |
+| 📣 **حملات** | إرسال جماعي بدفعات وجدولة وتكرار وتقسيم جمهور، مع **احترام تلقائي لإلغاء الاشتراك والموافقة** |
+| 🛒 **جاهزة للتجارة** | تكامل سلة، استرجاع السلات المتروكة، وإسناد الطلبات |
+| 👥 **فريق وCRM** | أدوار وصلاحيات، توزيع تلقائي، أداء الوكلاء، وملفات عملاء ودورة حياة |
+| 📊 **تحليلات** | إنتاجية الوكلاء، ROI الحملات، صحّة القنوات، وخرائط النشاط |
+| 🔌 **API عام** | توكنات بصلاحيات دقيقة وتوثيق تفاعلي للشركاء والتكاملات |
+
+> قدرات واتساب متقدّمة لا تقدّمها أغلب المنصّات: **Flows** (نماذج تفاعلية)، **Calling API**، **Groups API**، كتالوجات المنتجات، والرسائل التفاعلية الغنية.
+
+## 🏆 لماذا نتميّز
+
+- **🇸🇦 عربي-أولاً** — تقويم ميلادي وتوقيت الرياض ولهجة عربية وسياق محلي، لا ترجمة لاحقة.
+- **🔐 الالتزام ميزة** — مراعاة نظام حماية البيانات السعودي (**PDPL**)، إخفاء أرقام العملاء، سجلات تدقيق غير قابلة للتعديل، والتزام صارم بسياسة واتساب للأعمال (إلغاء الاشتراك، نافذة 24 ساعة، القوالب المعتمدة) — يحمي العميل من حظر الحساب.
+- **💳 دفع محلي** — فوترة عبر **ميسّر** (بطاقات، مدى، Apple Pay) ومحفظة استخدام موحّدة وباقات شفّافة.
+- **🧩 واتساب متعدد المزوّدين** — Meta الرسمي + QR + BSP في تجريد واحد، مرونة ومتانة يفتقدها المنافسون.
+- **🏗️ بنية آمنة متعددة المنظمات** — عزل صارم لكل منظمة على مستوى قاعدة البيانات، وحركة مالية مدقّقة، وضوابط وصول دفاعية متعددة الطبقات.
+
+## ⏱️ لماذا الآن
+
 - واتساب صار **قناة الأعمال الأولى في الخليج**، وواجهة Meta السحابية فتحت السوق للبرمجيات لا للوسطاء فقط.
 - الذكاء الاصطناعي بات **جيداً بما يكفي بالعربية** لأتمتة محادثات حقيقية لا بوتات نصّية.
 - تطبيق **نظام حماية البيانات السعودي (PDPL)** جعل الالتزام شرط شراء لا رفاهية.
 - **رؤية 2030** ورقمنة المنشآت الصغيرة تدفع آلاف الشركات من الأرقام الشخصية إلى أدوات حقيقية.
 
-## السوق
+## 📈 السوق
+
 - **نقطة الانطلاق:** المنشآت الصغيرة والتجار (منظومة سلة/زد) الذين يبيعون ويدعمون عبر واتساب.
-- **التوسّع:** الخليج ← شمال أفريقيا والمنطقة العربية الأوسع.
+- **التوسّع:** الخليج ← شمال أفريقيا والمنطقة العربية الأوسع ← أسواق الناطقين بالعربية.
 - **الميزة الفاصلة:** ذكاء عربي-أولاً + التزام محلي + دفع محلي — وهي بالضبط الفجوات التي تتركها الأدوات العالمية.
+- **التوسّع الطبيعي:** يبدأ العميل بقناة واحدة، ثم ينمو إلى حملات، وذكاء اصطناعي، وفرق متعددة، وتكاملات API.
 
-## جاهزية المنتج
-Respondly **يعمل في الإنتاج فعلاً** لا نموذج أولي: مجموعة ميزات عميقة منشورة، فوترة مُختبَرة عبر ميسّر، وأسس مؤسسية (عزل صارم بين المنظمات، عمليات مالية مدقّقة، وتحصين أمني مستمر).
+## ✅ جاهزية المنتج
 
-## الرؤية
+Respondly **يعمل في الإنتاج فعلاً** لا نموذج أولي:
+
+- مجموعة ميزات عميقة منشورة عبر الوارد والذكاء والحملات والـ CRM والتجارة والتحليلات وAPI عام.
+- فوترة مُختبَرة — اشتراكات، محفظة استخدام، إضافات تناسبية، كوبونات، وإحالات — مبنية على **ميسّر**.
+- أسس مؤسسية: عزل صارم بين المنظمات، عمليات مالية مدقّقة، وتحصين أمني مستمر.
+- مساحة واتساب متقدّمة (Flows، Calling، Groups، كتالوجات) لم يبنِها أغلب المنافسين.
+
+## 💰 الباقات
+
+| الباقة | السعر | القنوات المشمولة |
+|:---:|:---:|:---:|
+| **المبتدئ** | 99 ر.س/شهر | 1 |
+| **النمو** | 199 ر.س/شهر | 2 |
+| **الأعمال** | 299 ر.س/شهر | 5 |
+
+ينمو الإيراد عبر زيادة المقاعد والقنوات الإضافية واستهلاك الذكاء الاصطناعي ومحرّك إحالات مدمج — كله يُفوتر تلقائياً عبر نظام محفظة مدقّق.
+
+## 🛠 التقنية
+
+حديثة، serverless، وفعّالة التكلفة — تتوسّع لكل عميل دون عبء بنية تحتية.
+
+**React · TypeScript · Supabase · PostgreSQL (عزل على مستوى الصف) · Edge Functions (Deno) · ميسّر · ذكاء متعدد النماذج (OpenAI · Gemini · Anthropic)**
+
+## 🛣️ خارطة الطريق
+
+- **الآن** — تعميق الذكاء: وكلاء مبيعات مستقلّون، تقييم المحادثات، وقواعد معرفة ذاتية التحسّن.
+- **التالي** — onboarding ذاتي، سوق قوالب حسب القطاع، وتحليلات إيراد أعمق.
+- **لاحقاً** — تدفّقات صوتية (WhatsApp Calling)، تجارة أعمق (زد وغيره)، وطبقة شركاء/وكالات.
+
+## 🌟 الرؤية
+
 > أن تستطيع كل شركة في العالم العربي إجراء محادثة حقيقية ذكية وملتزمة مع كل عميل — على نطاق واسع وبلغته.
 
+Respondly هو المنصّة التي تجعل ذلك هو الوضع الافتراضي.
+
+</div>
+
+---
+
+<div align="center">
+
+### 📩 للتواصل
+
+**Respondly — حيث تتحوّل كل محادثة عميل إلى علاقة.**
+
+</div>
+
+---
+
+## In English
+
+> **Respondly — the AI-powered, Arabic-first customer conversation platform.** One intelligent inbox for WhatsApp, email, and social — built natively for Saudi Arabia and the GCC.
+
+### 🌍 The Opportunity
+Businesses across Saudi Arabia and the GCC run on **WhatsApp** — yet most still manage conversations through scattered personal phones and disconnected tools, losing leads with no visibility or compliance. Global tools are English-first, expensive, and never built for Arabic nuance, local payments, or Saudi data law. **Respondly is the Arabic-first, AI-native operating system for customer conversations.**
+
+### 💡 The Product
+| Pillar | What it delivers |
+|---|---|
+| 📥 **Unified Inbox** | WhatsApp (Cloud API + QR + BSP), Email & social — assignment, notes, snooze, tickets |
+| 🤖 **Built-in AI** | Auto-replies, suggested responses, sentiment & intent, sales attribution, Arabic-tuned knowledge base |
+| 📣 **Campaigns** | Bulk WhatsApp with batching, scheduling & **automatic opt-out enforcement** |
+| 🛒 **Commerce-Ready** | Native Salla integration, abandoned-cart recovery, order attribution |
+| 👥 **Team & CRM** | RBAC, auto-assignment, agent performance, customer lifecycle |
+| 📊 **Analytics** | Agent productivity, campaign ROI, channel health |
+| 🔌 **Open API** | Scoped tokens with interactive docs |
+
+> Plus advanced WhatsApp surface most platforms lack: **Flows, Calling API, Groups API**, catalogs, and interactive messages.
+
+### 🏆 Why We Win
+**Arabic-first & MENA-native** · **Compliance as a feature** (PDPL + WhatsApp Policy) · **Local payments** (Moyasar) · **Multi-provider WhatsApp** · **Secure multi-tenant architecture**.
+
+### ⏱️ Why Now
+WhatsApp has become a business *system* in the GCC; Arabic AI is finally good enough to automate real conversations; Saudi **PDPL** makes compliance a buying requirement; and Vision 2030 is digitizing SMEs at scale.
+
+### 📈 Market
+**Beachhead:** Saudi SMEs & e-commerce merchants (Salla/Zid). **Expansion:** GCC → wider MENA. **Wedge:** Arabic-first AI + local compliance + local payments.
+
+### ✅ Product Maturity
+**Live in production** — a deep, shipped feature set with battle-tested billing and enterprise-grade multi-tenant security foundations.
+
+### 💰 Business Model
+Transparent SaaS — **Starter 99 / Growth 199 / Business 299 SAR/mo** — plus usage-based add-ons (channels, AI, campaigns) and a referral engine, billed through an audited wallet.
+
+### 🛠 Technology
+React · TypeScript · Supabase · PostgreSQL (Row-Level Security) · Edge Functions (Deno) · Moyasar · Multi-model AI (OpenAI · Gemini · Anthropic).
+
+### 🌟 Vision
+> Every business in the Arab world should be able to have a real, intelligent, compliant conversation with every customer — at scale, in their language.
+
+---
+
+<div align="center">
+<sub>© Respondly. All rights reserved. — جميع الحقوق محفوظة</sub>
 </div>
